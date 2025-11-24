@@ -107,3 +107,4 @@ FITP_Report.pdf	Summary of analysis, insights, and valuation outcomes
 screenshots/	Visual snippets of key sheets (ratios, SCF, budgeting, etc.)
 
 README.md	Project documentation
+
